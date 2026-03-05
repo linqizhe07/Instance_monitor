@@ -21,6 +21,7 @@ Lambda's GPU instances (A100, H100, etc.) are often sold out. This script polls 
 
 ```bash
 git clone http://github.com/Linqizhe07/Instance_monitor.git
+cd Instance_monitor
 pip install requests
 ```
 
